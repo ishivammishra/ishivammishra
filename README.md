@@ -2,14 +2,14 @@
  src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064"/>
  
 <h1 align="center">Hi, I'm Shivam Mishra</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Frontend Developer and DSA problem solver</h3>
 <img align="right" height="300" width="400"  src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishivammishra&label=Profile%20views&color=0e75b6&style=flat" alt="ishivammishra" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend and DSA**
 
 - 📫 How to reach me **: shivammishra.2522@gmail.com**
 

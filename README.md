@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Frontend Dev**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **: shivammishra.2522@gmail.com**
 

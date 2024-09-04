@@ -3,7 +3,7 @@
  
 <h1 align="center">Hi, I'm Shivam Mishra</h1>
 <h3 align="center">A passionate Frontend Developer and DSA problem solver</h3>
-<img align="right" height="300" width="400"  src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="gif" />
+<img align="right" height="300" width="400"  src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishivammishra&label=Profile%20views&color=0e75b6&style=flat" alt="ishivammishra" /> </p>
 

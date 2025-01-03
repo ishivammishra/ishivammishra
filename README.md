@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishivammishra&label=Profile%20views&color=0e75b6&style=flat" alt="ishivammishra" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Statistics**
 
 - 💬 Ask me about **Frontend and DSA**
 

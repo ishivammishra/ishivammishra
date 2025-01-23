@@ -2,14 +2,14 @@
  src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NjgzMzcsIm5iZiI6MTcyNTQ2ODAzNywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDE2NDAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MTQ1ODQ0YTQ4NjE0ZTcwMzQ1NGQ2OGJlZWZlYTJmZmZjZmU0Mjc2MDMyZDczY2M3NzNkMTlhMzRiOTczYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BiLPLHG0BdO-BgKoCfUY9p6eG0LzVK64I8FRMXWrCxE"/>
  
 <h1 align="center">Hi, I'm Shivam Mishra</h1>
-<h3 align="center">A passionate Frontend Developer and DSA problem solver</h3>
+<h3 align="center">A passionate DSA problem solver</h3>
 <img align="right" height="300" width="400"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishivammishra&label=Profile%20views&color=0e75b6&style=flat" alt="ishivammishra" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning** and **Statistics**
 
-- 💬 Ask me about **Frontend and DSA**
+- 💬 Ask me about **Machine Learning and DSA**
 
 - 📫 How to reach me **: shivammishra.2522@gmail.com**
 
